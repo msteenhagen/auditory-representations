@@ -10,6 +10,9 @@ abstract: Source representationalism is the thesis that the sources of the sound
 
 Source representationalists make a claim about auditory perception. They maintain that the sources of the sounds we hear are represented in perceptual experience, whenever they are heard. Source representationalists may accept that, when we hear a piano being played, our auditory experience consists in an auditory presentation of the sound of a piano. Yet they deny that hearing a piano can consist in an auditory presentation of that piano itself. In this paper I show why we should accept this claim.
 
+{>>Some say that perceptual states are representations. Others say they are not representations: they are relations to token objects. This conference aims to explore various ways in which the two sides of the debate could be reconciled. 
+<<}
+
 ##### §1.
 You listen to a stereo recording of Keith Jarrett's *The Köln Concert*, a piano improvisation performed on the 24th of January 1975 in Cologne. Its actual audience was seated in a celebrated opera house designed by Wilhelm Riphahn. You, however, are in London, in an almost empty, quiet study. It's 2014. Your only company is the fauteuil you sit in, and a high fidelity stereo set. The quality of the recording and the calibration of the loudspeakers are superb. You press play, well aware that you're in for a treat. Leaning back, eyes closed, what can you hear?
 
