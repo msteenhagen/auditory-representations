@@ -1,12 +1,13 @@
 ---
 title: Auditory representations
+draft: Draft version - please do not cite
 author:
 - name: Maarten Steenhagen
-  affiliation: University College London
+  affiliation: university college london
   email: m.steenhagen.09@ucl.ac.uk
 date: January 2014
 abstract: Source representationalism is the thesis that the sources of the sounds we hear, whenever they are heard, are represented in experience. Source representationalists may accept that auditory experience consists in a relation to particular sounds. What they deny is that hearing a sound source consists in a perceptual relation to such a source. Starting from arguments about listening to recordings, I develop a defence of the source representationalist's thesis. I show that listening to recordings enables us to hear sound sources representationally. I then demonstrate that, given the structure and character of auditory perception, hearing a source when it is actually producing the sounds one hears is equally representational. This establishes source representationalism as a global thesis about auditory perception. This conclusion has important implications for our understanding of perceptual representation more generally.
-...
+---
 
 Source representationalists make a claim about auditory perception. They maintain that the sources of the sounds we hear are represented in perceptual experience, whenever they are heard. Source representationalists may accept that, when we hear a piano being played, our auditory experience consists in a perceptual relation to a sound—the sound of a piano is present in auditory experience. Yet they deny that hearing a piano consists in an auditory presentation of that piano itself. They maintain that sound sources such as pianos are only represented in auditory experience. In this paper I show why we should accept this claim.
 
