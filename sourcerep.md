@@ -60,7 +60,7 @@ This condition allows us to identify typical occurrences of perceptual represent
 
 Assuming that there is nothing peculiar about pianos, we may now accept a restricted version of source representationalism. Whenever we hear a source while merely playing back a sound recording, the source is represented in experience, because we hear it while it is not present to the senses.
 
-This raises a question. By what mechanism is perceptual representation of this kind possible? Merely suggesting that we possess a capacity for representational perception may not be entirely satisfactory. Yet, we can say more. The heard sound plays a determining role in the exercise of this capacity. 
+This raises a question. By what mechanism is perceptual representation of this kind possible? Merely suggesting that we possess a capacity for representational perception may not be entirely satisfactory. Yet, we can say more. The heard sound plays a determining role in the exercise of this capacity [this is standardly overlooked, see e.g. @tolliver2007aa, p. 143]. 
 
 Just as other perceptual capacities, the capacity for representational perception is only exercised in response to something---it is a *reactive* capacity [cf.@kalderon2014aa]. Sound figures as an essential cog in the machinery of representation in auditory perception. This is because, in general, what we can hear is at least in part determined by the audible character of the sounds we perceive. And if the sound reproduced by our stereo set did not have audible characteristics of the right kind, then hearing that sound would not enable us to hear a piano at all. We hear a piano because we hear a sound with the right characteristics. 
 
