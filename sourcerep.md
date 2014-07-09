@@ -1,13 +1,14 @@
 ---
-title: Auditory representations
-draft: Draft version - please do not cite
+title: Source representationalism
+draft: 
 author:
 - name: Maarten Steenhagen
   affiliation: university college london
   email: m.steenhagen.09@ucl.ac.uk
 date: January 2014
-abstract: Source representationalism is the thesis that the sources of the sounds we hear, whenever they are heard, are represented in experience. Source representationalists may accept that auditory experience consists in a relation to particular sounds. What they deny is that hearing a sound source consists in a perceptual relation to such a source. Starting from arguments about listening to recordings, I develop a defence of the source representationalist's thesis. I show that listening to recordings enables us to hear sound sources representationally. I then demonstrate that, given the structure and character of auditory perception, hearing a source when it is actually producing the sounds one hears is equally representational. This establishes source representationalism as a global thesis about auditory perception. This conclusion has important implications for our understanding of perceptual representation more generally.
+abstract: Source representationalism is the view that the sources of the sounds we hear, whenever they are heard, are represented in experience. Source representationalists may accept that auditory experience consists in a perceptual relation to particular sounds. What they deny is that hearing a sound source consists in a perceptual relation to such a source. Starting from arguments about listening to recordings, I develop a defence of the source representationalist’s thesis. I show that listening to recordings enables us to hear sound sources representationally. I then demonstrate that, given the structure and character of auditory perception, hearing a source when it is actually producing the sounds one hears is equally representational. This establishes source representationalism as a global thesis about auditory perception. This conclusion has important implications for our understanding of perceptual representation more generally.
 ---
+
 
 Source representationalists make a claim about auditory perception. They maintain that the sources of the sounds we hear are represented in perceptual experience, whenever they are heard. Source representationalists may accept that, when we hear a piano being played, our auditory experience consists in a perceptual relation to a sound—the sound of a piano is present in auditory experience. Yet they deny that hearing a piano consists in an auditory presentation of that piano itself. They maintain that sound sources such as pianos are only represented in auditory experience. In this paper I show why we should accept this claim.
 
@@ -44,12 +45,12 @@ If this is right, then interesting things follow. For by the same reasoning, we 
 
 This suggests that also in listening to a recording it is possible to turn one's attention to a sound's source, and hear it. Whether one can engage in this mode of attentive listening to sources depends on whether one hears the right sounds, not on whether it is a recording or not. 
 
-However, someone could object that the case of hearing a cat at night and hearing the recording of a plane's engine are different. Where in the former case there actually is a cat producing those sounds, in the latter a loudspeaker is directly responsible for the audible sound. Hence, the objection would run, the fact that one can attend to something beyond the mere sound of a recording just suggests that we can hear the loudspeaker that reproduces it.
+However, someone could object that the case of hearing a cat at night and hearing the recording of a plane's rudder are different. Where in the former case there actually is a cat producing those sounds, in the latter a loudspeaker is directly responsible for the audible sound. Hence, the objection would run, the fact that one can attend to something beyond the mere sound of a recording just suggests that we can hear the loudspeaker that reproduces it.
 
 This objection is unconvincing. As every audiophile will attest, loudspeakers are inaudible if they function well. Imagine that, while listening to the recording of Jarrett's play, an annoying tearing noise makes itself heard. Your loudspeaker is bust, and its sound now interferes with the piano's melodies; such a tearing will stand out in experience as not belonging to the recording itself. This is what hearing a loudspeaker is like. Understanding what it would be to hear a loudspeaker requires consideration of cases where the device has a noticeable defect. It should be clear that, instead of setting a standard for listening to recorded sounds, such an experience just signals that the equipment used needs to be replaced.
 
 ##### §4.
-It is now possible to give a straightforward answer to the question what one can hear if one plays a recording of Jarrett's improvisations. If such a recording is of good enough quality, then one is in a position to hear not only sounds that have every audible characteristic in common with the original sounds of Jarrett's performance, but also a Bösendorfer piano---the source of those sounds.
+It is now possible to give a straightforward answer to the question what one can hear if one plays a recording of Jarrett's improvisations. If such a recording is of good enough quality, then one is in a position to hear not only sounds that may have every audible characteristic in common with the original sounds of Jarrett's performance, but also a Bösendorfer piano---the source of those sounds.
 
 ##### §5.
 The following is a sufficient condition for perceptual representation:
@@ -89,6 +90,7 @@ Source representationalism is the view according to which the sources of the sou
 The correctness of the source representationalist claim has broader significance. It brings to our attention that sounds are an indispensable structural element in the workings of perceptual representation in the auditory modality. Sounds are objects of perception that fulfil a valuable representational function in hearing. This outlines a broader programme. It suggests that a complete picture of the scope of perceptual experience must give an account of whether, and if so, how, in perceptual modalities other than audition representations figure in our perception of the world. 
 
 \subsection*{References}
+\vspace
 \setlength{\parindent}{-0.2in}
 \setlength{\leftskip}{0.2in}
 \setlength{\parskip}{2pt}
