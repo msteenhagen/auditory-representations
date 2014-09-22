@@ -66,6 +66,18 @@ This suggests that it is the heard sound that represents a piano to us. Naturall
 
 In what remains I will show that this understanding of auditory representation has the result that source representationalism should be accepted as a global thesis about auditory perception.
 
+##### Mike's point
+
+In a discussion of this material, Mike suggested that the argument I now use will not convince an opponent. This is because, ultimately, it is abductive. He suggested a different strategy: focus on the fact that we don't think of our perception of the piano when we listen to a recording as illusory. 
+
+We take ourselves to hear a piano, we take ourselves to be listening to one, and yet we do not take it that any piano is present to us. If this is an argument for representation, then we must assume that a non-representational experience is one where, if we take ourself to experience an x, then we take an x to be present to us. Illusions, on this model, are non-representational experiences. 
+
+Perhaps I can proceed through a discussion of features that reveal 'more'. So, an object can have an appearance such that it looks to have a back-side. One doesn't see the back, but one sees the whole object when one looks at it head-on. There is an analogous temporal case. But these are not the cases I need: for, I need a case where the features do make something 'not strictly perceived', perceived.
+
+Ultimately, I want to suggest that the problem of images finds a parallel in the 'problem of sounds'. We agree that a sound appears to sense, but does this also allow a coach to appear to sense? I want to defend an Augustinian account of perception, where we must understand that a perceptual activity is responsible for the object of perception: but this activity is constrained by what is present to us. (If it is not constrained in this way, we're merely imagining: in such a case, the activity is productive.) And I should keep in mind that, ultimately, it is the principle of mediation that is doing the lifting: we must think of the specific way the mediator appears to sense as being sufficient for the mediated appearing to sense – that is the discussion of the concept of 'design'. Here I in fact have a stronger case for the visual representations I focus on. 
+
+He also emphasises that we can hear the source relation, and we agreed that one can have a further disagreement whether the source relation is an intentional one. 
+
 ##### §6.
 The previous discussion brought out that we can hear both the sound of a piano and a piano itself in listening to a recording of Jarrett's *Köln Concert*. One may reason that in such circumstances, although the sound may be present in auditory experience, the piano we hear is represented in peception. Our hearing a Bösendorfer piano could not consist it a perceptual relation, given such an instrument's absence from the perceptual situation.  Hearing sounds with the typical audible characteristics of the sound of a Bösendorfer piano enabled you to hear such an instrument in its absence. But now a question remains: Is the experience of hearing a piano when such an instrument is actually being played to us also one of hearing a piano representationally?
 
