@@ -124,4 +124,13 @@ The possibility of perceptual representation in auditory perception stands out i
 
 It is tempting to think that precisely because of his focus on vision, Travis was bound from the outset to reach only a partial understanding of what perception, as such, can do.
 
+# The range of source representationalism 
+
+How far does it go, though? Is the experience of hearing a piano when such an instrument is actually being played to us also one of hearing a piano representationally?
+
+I take it that, just on the basis of what we’ve said so far, someone might agree that hearing via recordings is representational (because: absence), but maintain that in ordinary hearing representation need not be involved (because: presence!). Or to put it differently: The conditions sufficient for mediated audibility of a source are met whenever sound of the right sort is in our environment. __This means that also in ordinary situations we’ll be in a position to hear sources representationally__.
+
+Though it’s pretty obvious that, if we assume what I’ve said so far is right, the same conditions are met and so that everything is in place for representation, it could still be thought that, other than recordings, ordinary hearing also affords presentation. The point is that the ordinary case includes other conditions that also offer us presentation.
+
+
 \subsection*{References}
