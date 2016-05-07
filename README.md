@@ -1,7 +1,5 @@
-auditory-representations
+Sounds as Perceptual Mediators
 ========================
 
-A short paper on auditory representations.
-
 #### Abstract
-Source representationalism is the thesis that the sources of the sounds we hear, whenever they are heard, are represented in experience. Source representationalists may accept that auditory experience consists in a relation to particular sounds. What they deny is that hearing a sound source consists in a perceptual relation to such a source. Starting from arguments about listening to recordings, I develop a defence of the source representationalist's thesis. I show that listening to recordings enables us to hear sound sources representationally. I then demonstrate that, given the structure and character of auditory perception, hearing a source when it is actually producing the sounds one hears is equally representational. This establishes source representationalism as a global thesis about auditory perception. This conclusion has important implications for our understanding of perceptual representation more generally
+Sounds enable us to hear things. But in what way? Source representationalism, as I will call it, is a view about how sounds can make other things audible. It says that sounds can fulfil a representational function in perception. In this paper I defend this position by reflecting on the possibility of sound reproduction. That possibility lies at the heart of all sound recording and playback technology. Because of this possibility, the sounds that reach our ears can act as perceptual representations of the sources that emit them, making those sources audible despite their absence from the perceptual situation.
