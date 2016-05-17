@@ -187,7 +187,7 @@ But surely hearing is a form of perception. And surely hearing does indeed ‘co
 
 [^7]:  Perhaps a better parallel to draw would be between listening to a recording of a piano concert that took place in the past, and being faced with a photograph of a star currently no longer visible in the Earth’s sky. Just as the played back sound, it seems, the photograph may be said to represent the star in perception. It puts us in a position to look at it once more, despite the fact that the star is now absent from our perceptual situation.
 
-[^8]: The most explicit proponent I am aware of is Mike Martin [@martin2012aa], but a conception of sounds as abstract individuals is at least implicit in @nudds2001aa and @scruton2010aa. That we have no reason to think having the potential to exist more than once, or in multiple location, entails being ‘outside space and time’ is brought out well by Lee Walters (2013). A failure to recognise this point is likely to make quite implausible views seem inevitable (see e.g. @dodd2000aa). 
+[^8]: The most explicit proponent I am aware of is Mike Martin [@martin2012aa], but a conception of sounds as abstract individuals is at least implicit in @nudds2001aa and @scruton2010aa. That we have no reason to think having the potential to exist more than once, or in multiple locations, entails being ‘outside space and time’ is brought out well by Lee Walters (2013). A failure to recognise this point is likely to make quite implausible views seem inevitable (see e.g. @dodd2000aa). 
 
 [^9]: The point is brought out well in Jonathan Sterne’s (2003) cultural history of sound recording techniques and their reception.
 
