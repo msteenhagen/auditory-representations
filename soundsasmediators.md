@@ -20,7 +20,7 @@ The position I defend accepts the following four theses:
 3. sounds function as perceptual mediators
 4. sounds can function as perceptual representations
 
-The fourth of these theses is the central claim I defend in this paper. Note, that is not a universal claim. I will not defend the claim that the way we hear things by means of hearing sounds is always representational---i.e. that sounds always function as perceptual representations. I only establish that they can so function, and sometimes do. Nonetheless, the universal claim that sounds always function as perceptual representations is interesting to consider. That is why, in the final section of this paper, I show that such a stronger conclusion does follow when one makes two widely held additional assumptions about the nature of perception. 
+The fourth of these theses is the central claim I defend in this paper. Note, that is not a universal claim. I will not defend the claim that the way we hear things by means of hearing sounds is always representational---i.e. that sounds always function as perceptual representations. I only establish that they can so function, and sometimes do. Nonetheless, the universal claim that sounds always function as perceptual representations is interesting to consider. That is why, in the final section of this paper, I show that such a stronger conclusion does follow when one makes one or both of two widely held additional assumptions about the nature of perception. 
 
 But before all that, I begin by outlining how I think we should conceive of the way sound figures in human experience.
 
