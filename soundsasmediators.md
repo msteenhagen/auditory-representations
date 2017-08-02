@@ -9,7 +9,19 @@ date: August 2017
 abstract: "Sounds enable us to hear things. But in what way? Source representationalism, as I will call it, is a view about how sounds can make other things audible. It says that sounds can fulfil a representational function in perception. In this paper I defend this position by reflecting on the possibility of sound reproduction. That possibility lies at the heart of all sound recording and playback technology. Because of this possibility, the sounds that reach our ears can act as perceptual representations of the sources that emit them, making those sources audible despite their absence from the perceptual situation."
 ---
 
-##### §1. Introduction
+##### §0.
+
+Wherever a kind of perception does not require some of its objects to be present to the senses, we may take it to involve a form of representation of those objects. 
+It is standard to take this kind of object-independence to be a defining mark of representation in perception. 
+I will demonstrate that the perceptual situation we may find ourselves in when we listen to a sound source via a recording bears that mark. 
+When we listen to a sound source via the played back sounds of a sound recording, our perceptual state does not depend on the presence of the source we hear. 
+That source, as object of perception, is to that extent represented in the experience.
+If this is right, then hearing a sound source via a recording is, as such, representational. 
+The sounds reproduced by the playback device we use represent the source in perception. 
+This is because our perception of the piano when listening to the recording does not depend on the piano’s being present. 
+Conceiving of our perception of playbacks in this way, we are able to approach the concept of perceptual representation in a novel and surprisingly minimal way.
+
+##### §1.
 
 Sounds enable us to hear things. But in what way? Here I will argue that sounds can make things audible by acting as representations in perception. My starting point is the observation that the sounds that reach our ears play a specific role in our perception of the world. Sounds, at least when they have the right audible characteristics, put you in a position to hear other things as well. I argue that this implies that sounds introduce into our experience an opportunity for perceptual representation. My argument exploits the possibility of sound reproduction---a possibility at the heart of sound recording and playback technology. The upshot is a novel and appealing version of representationalism about perception.
 
